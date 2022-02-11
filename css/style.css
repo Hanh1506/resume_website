@@ -708,7 +708,7 @@ a.active {
     display: flex;
 }
 #footer {
-    justify-content: center;
+    justify-content: space-between;
     align-items: center;
     margin: 30px auto;
     flex-wrap: wrap;
